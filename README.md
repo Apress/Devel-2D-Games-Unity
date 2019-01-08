@@ -20,4 +20,4 @@ See the file Contributing.md for more information on how you can contribute to t
 #### Chapter 3, Page 53
 Credit: [@omundy](https://github.com/omundy)
 
-After stopping the playing scene, add the animation for the player's idle state. From the Sprites folder, select the last two sprites from the Player32x32 sprite-sheet, titled `"Player32x32_12"` and `"Player32x32_13"` and drag them onto the PlayerObject. When prompted by the Create New Animation save window, name the created animation-clip, "player-idle" and save to the Animations -> Animations folder.
+After stopping the playing scene, add the animation for the player's idle state. From the Sprites folder, select the last *two* sprites from the Player32x32 sprite-sheet, titled: `Player32x32_12` and `Player32x32_13` and drag them onto the PlayerObject. When prompted by the Create New Animation save window, name the created animation-clip, "player-idle" and save to the Animations -> Animations folder.
