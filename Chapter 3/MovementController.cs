@@ -22,7 +22,7 @@ public class MovementController : MonoBehaviour
         walkWest = 3,
         walkNorth = 4,
 
-        idleEast = 5
+        idleSouth = 5
     }
 
     private void Start()
