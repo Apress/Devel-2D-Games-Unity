@@ -25,3 +25,8 @@ After stopping the playing scene, add the animation for the player's idle state.
 #### Chapter 4, Page 93
 
 In the **Creating Tile Palettes** section, the `Tile Palette` window in Unity 2018.3 is now located under `Window -> 2D -> Tile Palette`.
+
+#### Chapter 4, Page 128
+Credit: [@omundy](https://github.com/omundy)
+
+Make sure to attach the `RoundCameraPos` script to the virtual camera object. Drag and drop the `RoundCameraPos` onto "CM vcam1".
