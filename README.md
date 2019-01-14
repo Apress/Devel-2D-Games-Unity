@@ -30,3 +30,42 @@ In the **Creating Tile Palettes** section, the `Tile Palette` window in Unity 20
 Credit: [@omundy](https://github.com/omundy)
 
 Make sure to attach the `RoundCameraPos` script to the virtual camera object. Drag and drop the `RoundCameraPos` onto "CM vcam1".
+
+
+
+
+
+#### Chapter 5, Page 147 
+Credit: [@omundy](https://github.com/omundy) 
+
+Create the GameObject in the hierarchy view (not project view). 
+
+#### Chapter 5, Page 162
+Credit: [@omundy](https://github.com/omundy) 
+
+In the **Assembling Our Item** section, third paragraph, rename the Scriptable Object, "Coin" (not "Item"). 
+
+#### Chapter 5, Page 164
+Credit: [@omundy](https://github.com/omundy) 
+
+In the **Player Collisions** section, the first line of code section `// 3`, should be:
+
+```
+print("Hit: " + hitObject.objectName);
+```
+
+#### Chapter 5, Page 166
+Credit: [@omundy](https://github.com/omundy) 
+
+Steps 10 and 11 are duplicates of step 3.
+
+
+
+
+#### Chapter 6, Page 198
+Credit: [@omundy](https://github.com/omundy) 
+
+Under the heading **Create the HealthBar Script**, right-click in the MonoBehaviours folder **and create a new C# script** called HealthBar."
+
+
+
