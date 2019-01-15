@@ -75,7 +75,7 @@ Ensure a copy of the `HealthBarObject` is in the Hierarchy view and select it. A
 #### Chapter 6, Page 204
 Credit: [@omundy](https://github.com/omundy)
 
-The property, `Character Category` which appears in the source and in Figure 6-22 may be disregarded, or used in your game to broadly distinguish between types of categories, instead of creating a tag for each character type.
+The property, `Character Category` which appears in the source and in Figure 6-22 may be disregarded, or used later on in your game to broadly distinguish between what is/isn't an enemy, or the player (or even an NPC) instead of creating a tag for each character type.
 
 #### Chapter 6, Page 207
 Credit: [@omundy](https://github.com/omundy)
