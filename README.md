@@ -58,7 +58,7 @@ print("Hit: " + hitObject.objectName);
 #### Chapter 5, Page 166
 Credit: [@omundy](https://github.com/omundy)
 
-Steps 10 and 11 are duplicates of step 3.
+Steps 10 and 11 are duplicates of step 3 and can be disregarded.
 
 #### Chapter 6, Page 198
 Credit: [@omundy](https://github.com/omundy)
