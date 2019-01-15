@@ -84,9 +84,15 @@ With `InventoryObject` selected, in the Canvas Scaler component, set `Reference 
 
 
 #### Chapter 7, Page 263
+Credit: [@omundy](https://github.com/omundy)
 
 In the **The DamageCharacter() method** section, the code should be added to the `Enemy` class.
 
+
+#### Chapter 7, Page 269
+Credit: [@omundy](https://github.com/omundy)
+
+In the **Refactoring Prefab Instantiation** section, remove all *four* lines from `Start()` and add them to the new `ResetCharacter()` override.
 
 
 
