@@ -109,5 +109,11 @@ You'll notice when you run into the enemies they spin. Like you did with the Pla
 
 
 
+#### Chapter 8, Page 287
+Credit: [@omundy](https://github.com/omundy)
+
+In the **Enemy Walk Animation** section, select the Enemy prefab then open the **Animator** window as seen in Figure 8-3.
+
+
 
 
