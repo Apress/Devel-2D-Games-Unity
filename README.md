@@ -94,6 +94,13 @@ Credit: [@omundy](https://github.com/omundy)
 
 In the **Refactoring Prefab Instantiation** section, remove all *four* lines from `Start()` and add them to the new `ResetCharacter()` override.
 
+After you add the `ResetCharacter()` method to the `Player` class, add the following method
+
+```
+private void OnEnable() {
+	ResetCharacter();
+}
+```
 
 
 
