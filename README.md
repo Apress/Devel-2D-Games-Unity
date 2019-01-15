@@ -102,6 +102,12 @@ private void OnEnable() {
 }
 ```
 
+#### Chapter 7, Page 275
+Credit: [@omundy](https://github.com/omundy)
+
+You'll notice when you run into the enemies they spin. Like you did with the PlayerObject, check `Freeze Rotation` for the Z axis inside the Rigidbody2D on the EnemyObject prefab.
+
+
 
 
 
