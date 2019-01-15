@@ -68,7 +68,7 @@ Under the heading **Create the HealthBar Script**, right-click in the MonoBehavi
 #### Chapter 6, Page 202-204
 Credit: [@omundy](https://github.com/omundy)
 
-Ensure a copy of the `HealthBarObject` is in the Hierarchy view and select it. Add the HealthBar script this HealthBarObject. When working with the HealthBar in these next 3 pages (202-204), work with the copy of `HealthBarObject` in the Hierarchy view, not the copy in the Prefab folder.
+Ensure a copy of the `HealthBarObject` is in the Hierarchy view and select it. Add the HealthBar script this HealthBarObject. When working with the HealthBar in these next 3 pages (202-204), work with the copy of `HealthBarObject` in the Hierarchy view, not the copy in the Prefab folder. Make sure to apply changes when you're done, so the changes propagate to the Prefab.
 
 **Note**: The location of the button to apply changes to a prefab has changed in Unity 2018. The button is now located in the top right of the Inspector, in a drop-down menu called Overrides.
 
