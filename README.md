@@ -83,5 +83,12 @@ Credit: [@omundy](https://github.com/omundy)
 With `InventoryObject` selected, in the Canvas Scaler component, set `Reference Pixels Per Unit` to 32.
 
 
+#### Chapter 7, Page 263
+
+In the **The DamageCharacter() method** section, the code should be added to the `Enemy` class.
+
+
+
+
 
 
