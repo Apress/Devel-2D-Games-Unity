@@ -83,5 +83,41 @@ Credit: [@omundy](https://github.com/omundy)
 With `InventoryObject` selected, in the Canvas Scaler component, set `Reference Pixels Per Unit` to 32.
 
 
+#### Chapter 7, Page 263
+Credit: [@omundy](https://github.com/omundy)
+
+In the **The DamageCharacter() method** section, the code should be added to the `Enemy` class.
+
+
+#### Chapter 7, Page 269
+Credit: [@omundy](https://github.com/omundy)
+
+In the **Refactoring Prefab Instantiation** section, remove all *four* lines from `Start()` and add them to the new `ResetCharacter()` override.
+
+After you add the `ResetCharacter()` method to the `Player` class, add the following method
+
+```
+private void OnEnable() {
+	ResetCharacter();
+}
+```
+
+#### Chapter 7, Page 275
+Credit: [@omundy](https://github.com/omundy)
+
+You'll notice when you run into the enemies they spin. Like you did with the PlayerObject, check `Freeze Rotation` for the Z axis inside the Rigidbody2D on the EnemyObject prefab.
+
+
+
+#### Chapter 8, Page 287
+Credit: [@omundy](https://github.com/omundy)
+
+In the **Enemy Walk Animation** section, select the Enemy prefab then open the **Animator** window as seen in Figure 8-3.
+
+
+
+
+
+
 
 

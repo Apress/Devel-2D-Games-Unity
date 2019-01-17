@@ -25,8 +25,6 @@ public class Enemy : Character
         {
             hitPoints = hitPoints - damage;
 
-            StartCoroutine(FlickerCharacter());
-
             if (hitPoints <= float.Epsilon)
             {
                 KillCharacter();
