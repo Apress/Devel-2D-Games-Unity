@@ -121,6 +121,11 @@ In the **Enemy Walk Animation** section, select the Enemy prefab then open the *
 
 
 
+#### Chapter 8, Page 357
+Credit: [@VADS](https://github.com/VADS)
+
+In the implementation of the `GetQuadrant()` method, disregard the first two variable declarations: `Vector2 mousePosition = Input.mousePosition;` and `Vector2 playerPosition = transform.position;` as they are not used.
+
 
 
 
