@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Developing 2D Games with Unity: Independent Game Programming with C#*](https://www.apress.com/9781484237717) by Jared Halpern (Apress, 2018).
+This repository accompanies [*Developing 2D Games with Unity: Independent Game Programming with C#*](https://www.apress.com/9781484237717) by [Jared Halpern](https://jaredhalpern.com) (Apress, 2018).
 
 [comment]: #cover
 ![Cover image](9781484237717.jpg)
@@ -11,9 +11,9 @@ Download the files as a zip using the green button, or clone the repository to y
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-## Contributions
+## Contributions & Corrections
 
-See the file Contributing.md for more information on how you can contribute to this repository.
+If you find any typos, errors in code, or otherwise incorrect information, please feel free to file an [Issue](https://github.com/Apress/Devel-2D-Games-Unity/issues) in GitHub. See the file [Contributing.md](https://github.com/Apress/Devel-2D-Games-Unity/blob/master/Contributing.md) for more information on how you can further contribute to this repository.
 
 ## Errata
 
