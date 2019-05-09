@@ -25,7 +25,7 @@ After stopping the playing scene, add the animation for the player's idle state.
 #### Chapter 4
 Credit: [@josenerydev](https://github.com/josenerydev)
 
-Issue with format of file: `OutdoorObjects.png`.
+Issue with format of file: `OutdoorObjects.png`. (fixed in GitHub repo)
 
 #### Chapter 4, Page 93
 
