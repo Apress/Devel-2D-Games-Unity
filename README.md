@@ -90,7 +90,7 @@ With `InventoryObject` selected, in the Canvas Scaler component, set `Reference 
 #### Chapter 6, Page 223-227
 Credit: [@bensinc](https://github.com/bensinc)
 
-Simplu setting itemImages[i].enabled and quantityText.enable to true doesn't cause them to appear. Instead, use .gameObject.SetActive(true) on each of them.
+Simply setting itemImages[i].enabled and quantityText.enable to true doesn't cause them to appear. Instead, use .gameObject.SetActive(true) on each of them.
 
 
 #### Chapter 7, Page 263
