@@ -87,6 +87,11 @@ Credit: [@omundy](https://github.com/omundy)
 
 With `InventoryObject` selected, in the Canvas Scaler component, set `Reference Pixels Per Unit` to 32.
 
+#### Chapter 6, Page 223-227
+Credit: [@bensinc](https://github.com/bensinc)
+
+Simplu setting itemImages[i].enabled and quantityText.enable to true doesn't cause them to appear. Instead, use .gameObject.SetActive(true) on each of them.
+
 
 #### Chapter 7, Page 263
 Credit: [@omundy](https://github.com/omundy)
