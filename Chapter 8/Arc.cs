@@ -8,7 +8,7 @@ public class Arc : MonoBehaviour
         var startPosition = transform.position;
         var percentComplete = 0.0f;
 
-        while (percentComplete <= 1.0f)
+        while (percentComplete <= 1.0f  && gameObject.activeSelf)
         {
             // Time.deltaTime is the time elapsed since the last frame was drawn
             percentComplete += Time.deltaTime / duration;
