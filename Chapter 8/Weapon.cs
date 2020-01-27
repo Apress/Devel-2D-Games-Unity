@@ -84,7 +84,7 @@ public class Weapon : MonoBehaviour
                     quadrantVector = new Vector2(0.0f, -1.0f);
                     break;
                 case Quadrant.West:
-                    quadrantVector = new Vector2(-1.0f, 1.0f);
+                    quadrantVector = new Vector2(-1.0f, 0.0f);
                     break;
                 case Quadrant.North:
                     quadrantVector = new Vector2(0.0f, 1.0f);
