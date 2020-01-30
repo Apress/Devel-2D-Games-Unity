@@ -46,6 +46,11 @@ Credit: [@omundy](https://github.com/omundy)
 
 Create the GameObject in the hierarchy view (not project view). 
 
+#### Chapter 5, Page 161
+Credit: [@mprogers](https://github.com/mprogers) 
+
+In the **Build the Consumable Script** section, third paragraph, note that there is a distinction between the behavior of Scriptable Objects when running a project in the Editor, versus when running in a deployed (to device) build: Scriptable Objects cannot be used to _save_ changes to data in a deployed build. More on this subject can be read [here](https://docs.unity3d.com/Manual/class-ScriptableObject.html).
+
 #### Chapter 5, Page 162
 Credit: [@omundy](https://github.com/omundy) 
 
