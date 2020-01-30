@@ -126,8 +126,10 @@ Credit: [@VADS](https://github.com/VADS)
 
 In the implementation of the `GetQuadrant()` method, disregard the first two variable declarations: `Vector2 mousePosition = Input.mousePosition;` and `Vector2 playerPosition = transform.position;` as they are not used.
 
+#### Chapter 8, Page 360
+Credit: [@rdimitriev](https://github.com/rdimitriev)
 
-
+In the method `UpdateState()`, the case for `Quadrant.West:` should be changed from: `quadrantVector = new Vector2(-1.0f, 1.0f);` to `quadrantVector = new Vector2(-1.0f, 0.0f);`
 
 
 
