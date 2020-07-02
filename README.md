@@ -15,9 +15,12 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 
 If you find any typos, errors in code, or otherwise incorrect information, please feel free to file an [Issue](https://github.com/Apress/Devel-2D-Games-Unity/issues) in GitHub. See the file [Contributing.md](https://github.com/Apress/Devel-2D-Games-Unity/blob/master/Contributing.md) for more information on how you can further contribute to this repository.
 
-## Errata
+## General Notes
 
-As noted by [@RenatiusvanSander](https://github.com/RenatiusvanSander) [here](https://github.com/Apress/Devel-2D-Games-Unity/issues/29#issue-642630179), occassionally Unity will add a new object to a Scene and change the Z-coordinate on the object `Transform` to be something other than 0. If this happens and the Z-coordinate is set to a negative number, you won't see it when the Scene plays. To fix this, change the Z-coordinate to be 0.
+Credit: [@RenatiusvanSander](https://github.com/RenatiusvanSander)
+As noted [here](https://github.com/Apress/Devel-2D-Games-Unity/issues/29#issue-642630179), occasionally the Unity Editor will set the Z-coordinate on a newly created GameObject Transform to be negative. If this happens and the Z-coordinate is set to a negative number, you won't see it when the Scene plays. To fix this, change the Z-coordinate to be 0 on the GameObject Transform.
+
+## Errata
 
 #### Chapter 3, Page 53
 Credit: [@omundy](https://github.com/omundy)
