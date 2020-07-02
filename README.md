@@ -17,6 +17,8 @@ If you find any typos, errors in code, or otherwise incorrect information, pleas
 
 ## Errata
 
+As noted by [@RenatiusvanSander](https://github.com/RenatiusvanSander) [here](https://github.com/Apress/Devel-2D-Games-Unity/issues/29#issue-642630179), occassionally Unity will add a new object to a Scene and change the Z-coordinate on the object `Transform` to be something other than 0. If this happens and the Z-coordinate is set to a negative number, you won't see it when the Scene plays. To fix this, change the Z-coordinate to be 0.
+
 #### Chapter 3, Page 53
 Credit: [@omundy](https://github.com/omundy)
 
