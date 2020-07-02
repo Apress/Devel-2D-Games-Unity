@@ -18,6 +18,7 @@ If you find any typos, errors in code, or otherwise incorrect information, pleas
 ## General Notes
 
 Credit: [@RenatiusvanSander](https://github.com/RenatiusvanSander)
+
 As noted [here](https://github.com/Apress/Devel-2D-Games-Unity/issues/29#issue-642630179), occasionally the Unity Editor will set the Z-coordinate on a newly created GameObject Transform to be negative. If this happens and the Z-coordinate is set to a negative number, you won't see it when the Scene plays. To fix this, change the Z-coordinate to be 0 on the GameObject Transform.
 
 ## Errata
