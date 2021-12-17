@@ -41,7 +41,6 @@ public class Inventory : MonoBehaviour
                 items[i].quantity = items[i].quantity + 1;
                 Slot slotScript = slots[i].GetComponent<Slot>();
                 Text quantityText = slotScript.qtyText;
-                quantityText.enabled = true;
                 quantityText.text = items[i].quantity.ToString();
                 return true;
             }
@@ -54,6 +53,10 @@ public class Inventory : MonoBehaviour
                 items[i].quantity = 1;
                 itemImages[i].sprite = itemToAdd.sprite;
                 itemImages[i].enabled = true;
+                Slot slotScript = slots[i].GetComponent<Slot>();
+                Text quantityText = slotScript.qtyText;
+                quantityText.enabled = true;
+                quantityText.text = items[i].quantity.ToString();
                 return true;
             }
         }
